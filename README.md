@@ -1,24 +1,25 @@
 # mta98-391
-Intro to programming using python
 
+##Perform Operations using Data types and operators
 
-#Identify str, int, float, and bool data types
+### Identify str, int, float, and bool data types
 type(variable)
 
-#Convert from one data type to another
+### Convert from one data type to another
 float()
 int()
 str()
 list() <--> tuple()
-#Create data structures 
 
-#Perform indexing and slicing operations 
+### Create data structures 
 
-#Determine the sequence of execution based on operator precedence:
-#Assignment, comparison, logical, arithmetic, identity is, containment in
+### Perform indexing and slicing operations 
 
-#Select the appropriate operator to achieve the intended result
-#Assignment, comparison, logical, arithmetic, identity is, containment in
+### Determine the sequence of execution based on operator precedence:
+###Assignment, comparison, logical, arithmetic, identity is, containment in
+
+### Select the appropriate operator to achieve the intended result
+### Assignment, comparison, logical, arithmetic, identity is, containment in
 
 #######
 if()
