@@ -42,7 +42,7 @@ list[:3] --> [1, 2, 4]
 Select every second entry:
 list[::2] --> [1, 4]
 
-Rever a copy of the list:
+Revert a copy of the list:
 list[::-1] --> [3, 4, 2, 1]
 
 Get the index of the first item found:
@@ -54,9 +54,14 @@ list.index(2) --> 1
 ### Assignment, comparison, logical, arithmetic, identity is, containment in
 
 ## Control Flow with Decisions and Loops
-if()
-elif
-else
+
+if var > 10:
+    print("this will run if the var is bigger than 10 ")
+elif some_var < 10: 
+    print("this will run if the var is less than 10")
+else: 
+    print("this will run if the var is 10")
+
 nested and compound conditional expressions 
 
 while
